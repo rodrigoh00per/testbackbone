@@ -1,20 +1,20 @@
 # Exam for Front End Position
 
-## Command to run the project
+## Para correr el proyecto es necesario instalar las dependencias
 
-In the project directory, you can run:
+Correr el siguiente comando:
 
 ### `npm install`
 
-This command allows you to install the neccesary dependencies for run the project.
+Para correr nuestra aplicación corremos el siguiente comando
 
 ### `npm start`
 
-Run the app \
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Abrir el navegador e ir a la direccion \
+ [http://localhost:3000](http://localhost:3000) para ver el diseño
 
-Run the tests 
+Correr los test unitarios
 
 ### `npm run test`
 
-**Note: this project was created by Rodrigo Guerrero Rocha.!**
+**Note: Projecto creado por Rodrigo Guerrero Rocha.!**
